@@ -22,13 +22,7 @@
             },
             "search": {},
             "sharing": {
-                "all": ["facebook", "google", "twitter", "weibo", "instapaper"],
-                "facebook": true,
-                "google": false,
-                "instapaper": false,
-                "twitter": true,
-                "vk": false,
-                "weibo": false
+                "git": true,
             },
             "theme-default": {
                 "showLevel": false,
